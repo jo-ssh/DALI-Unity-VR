@@ -1,6 +1,6 @@
 ﻿ Shader "RenderFX/Skybox Blended With Fog" {
  Properties {
-     _FogColor ("Fog Color", Color) = (.5, .5, .5, .5)
+     _FogColor ("Fog Color", Color) = (.7, .7, .7, .3)
      _Fog ("Fog Intensity", Range(0.0,1.0)) = 1.0
      _Blend ("Blend", Range(0.0,1.0)) = 0.5
      _FrontTex ("Front (+Z)", 2D) = "white" {}
