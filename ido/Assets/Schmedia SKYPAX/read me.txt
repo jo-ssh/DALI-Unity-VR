@@ -1,0 +1,29 @@
+With my complements I’m offering this free sampler set of five all new HDR Skybox Panoramas from the Schmedia SKYPAX collection. I’ve included four incredibly beautiful panoramas in 2K resolution. In addition, so you can really experience the quality of these HDR Skyboxes; I’ve included two of my favorite panoramas in 4K resolution. If that’s still not enough pixels and you need even more resolution, 8K panoramas are available for purchase in the original release of the Schmedia SKYPAX set of 10.
+
+At the heart of Unity 5's new render engine is the ability to natively use HDR (32 bit floating point) images as Skyboxes. Only with the use of these HDR images can you take full advantage of the Physics Based Shaders, Real-Time Global Illumination and HDR Reflection Probes. Until now, there have been limited resources for images suitable for game environments - Introducing the Schmedia SKYPAX!
+
+Schmedia SKYPAX was created by industry veteran, Terry Schmidbauer. These images were created with a passion for incredible light and the intent to breathe life into every project.
+
+These Skyboxes were hand crafted with the first-hand knowledge from creating and leading AAA titles. From this firsthand knowledge comes a thorough understanding of the needs of today's game artist.
+
+Websites for more information:
+schmedia.com or terryschmidbauer.com
+
+Package includes:
+
+-5 Skyboxes, preprocessed in Unity 5 for immediate use,
+
+-Images captured by a professional photographer on a state of the art, full frame digital camera with a Nodal Precise Panoramic Tripod Head for perfectly seamless stitching,
+
+-Fully seamless 360 x 180 panoramic images including clean Zenith and Nadir,
+
+-32 bit floating point, HDR images with  high Exposure Values suitable for Image Based Lighting,
+
+-No distracting sensor noise, even in low light images,
+
+-Equirectangular HDR Panoramas,
+
+-Royalty free license for commercial release.
+
+
+Note: As these images are 32 bit Floating Point images, please be sure you are working in a linear color space within Unity 5. To check or change this setting -  Build Settings - Player Settings and use the pull down menu next to Color Space to define your color settings. If it's set to "Gamma", please change it to "Linear".

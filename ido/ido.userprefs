@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scene/SkyFogControl.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Fourdom/Assets/Play Scene_/Scripts/Letter.cs">
     <Files>
-      <File FileName="Assets/scene/SkyFog.shader" Line="117" Column="3" />
-      <File FileName="Assets/scene/SkyFogControl.cs" Line="50" Column="52" />
+      <File FileName="../../../Fourdom/Assets/Play Scene_/Scripts/SceneManager.cs" Line="3" Column="32" />
+      <File FileName="../../../Fourdom/Assets/Play Scene_/Scripts/Letter.cs" Line="36" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
